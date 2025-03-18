@@ -1,0 +1,14 @@
+/Users/tngoclan2604/Documents/Chuong3_Bai2/bin/Debug/net9.0/Chuong3_Bai2
+/Users/tngoclan2604/Documents/Chuong3_Bai2/bin/Debug/net9.0/Chuong3_Bai2.deps.json
+/Users/tngoclan2604/Documents/Chuong3_Bai2/bin/Debug/net9.0/Chuong3_Bai2.runtimeconfig.json
+/Users/tngoclan2604/Documents/Chuong3_Bai2/bin/Debug/net9.0/Chuong3_Bai2.dll
+/Users/tngoclan2604/Documents/Chuong3_Bai2/bin/Debug/net9.0/Chuong3_Bai2.pdb
+/Users/tngoclan2604/Documents/Chuong3_Bai2/obj/Debug/net9.0/Chuong3_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tngoclan2604/Documents/Chuong3_Bai2/obj/Debug/net9.0/Chuong3_Bai2.AssemblyInfoInputs.cache
+/Users/tngoclan2604/Documents/Chuong3_Bai2/obj/Debug/net9.0/Chuong3_Bai2.AssemblyInfo.cs
+/Users/tngoclan2604/Documents/Chuong3_Bai2/obj/Debug/net9.0/Chuong3_Bai2.csproj.CoreCompileInputs.cache
+/Users/tngoclan2604/Documents/Chuong3_Bai2/obj/Debug/net9.0/Chuong3_Bai2.dll
+/Users/tngoclan2604/Documents/Chuong3_Bai2/obj/Debug/net9.0/refint/Chuong3_Bai2.dll
+/Users/tngoclan2604/Documents/Chuong3_Bai2/obj/Debug/net9.0/Chuong3_Bai2.pdb
+/Users/tngoclan2604/Documents/Chuong3_Bai2/obj/Debug/net9.0/Chuong3_Bai2.genruntimeconfig.cache
+/Users/tngoclan2604/Documents/Chuong3_Bai2/obj/Debug/net9.0/ref/Chuong3_Bai2.dll
