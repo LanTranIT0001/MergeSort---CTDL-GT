@@ -1,0 +1,14 @@
+/Users/tngoclan2604/Documents/SoSanhTime/bin/Debug/net9.0/SoSanhTime
+/Users/tngoclan2604/Documents/SoSanhTime/bin/Debug/net9.0/SoSanhTime.deps.json
+/Users/tngoclan2604/Documents/SoSanhTime/bin/Debug/net9.0/SoSanhTime.runtimeconfig.json
+/Users/tngoclan2604/Documents/SoSanhTime/bin/Debug/net9.0/SoSanhTime.dll
+/Users/tngoclan2604/Documents/SoSanhTime/bin/Debug/net9.0/SoSanhTime.pdb
+/Users/tngoclan2604/Documents/SoSanhTime/obj/Debug/net9.0/SoSanhTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tngoclan2604/Documents/SoSanhTime/obj/Debug/net9.0/SoSanhTime.AssemblyInfoInputs.cache
+/Users/tngoclan2604/Documents/SoSanhTime/obj/Debug/net9.0/SoSanhTime.AssemblyInfo.cs
+/Users/tngoclan2604/Documents/SoSanhTime/obj/Debug/net9.0/SoSanhTime.csproj.CoreCompileInputs.cache
+/Users/tngoclan2604/Documents/SoSanhTime/obj/Debug/net9.0/SoSanhTime.dll
+/Users/tngoclan2604/Documents/SoSanhTime/obj/Debug/net9.0/refint/SoSanhTime.dll
+/Users/tngoclan2604/Documents/SoSanhTime/obj/Debug/net9.0/SoSanhTime.pdb
+/Users/tngoclan2604/Documents/SoSanhTime/obj/Debug/net9.0/SoSanhTime.genruntimeconfig.cache
+/Users/tngoclan2604/Documents/SoSanhTime/obj/Debug/net9.0/ref/SoSanhTime.dll
